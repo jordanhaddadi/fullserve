@@ -4,7 +4,7 @@
       <div class="px-5 py-15 max-w-md mx-auto sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
         <div class="xl:max-w-lg xl:ml-auto">
           <img class="h-35 w-35 lg:hidden" src="/img/default.svg" alt="Full Serve">
-          <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden" src="/img/coworking-hero.jpeg" alt="Bright and airy coworking space">
+          <img class="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-72 sm:w-full sm:object-cover sm:object-center lg:hidden" src="/img/coworking-hero.jpeg" alt="Bright and airy coworking space">
           <h1 class="mt-3 text-2xl font-bold text-gray-900 leading-tight sm:mt-2 sm:text-4xl lg:text-3xl xl:text-4xl">
            Full Serve is your new coworking paradise.
             <br class="hidden lg:inline"><span class="text-indigo-500">Take advantage of it.</span>
