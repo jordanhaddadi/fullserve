@@ -8,7 +8,7 @@
           src="/img/coworking-hero.jpeg"
           alt="Bright and airy coworking space"/>
 
-        <div class="w-full">
+        <div class="w-full mx-10 mt-20">
             <h1 class="text-2xl font-bold text-gray-900 leading-tight lg:mt-12 sm:text-4xl lg:text-3xl xl:text-4xl">
             Full Serve is your new coworking paradise.
             <br class="hidden lg:inline" />
@@ -22,7 +22,6 @@
                 v-on:click="navigate()"
                 class="btn btn-indigo shadow-lg sm:text-base">Plan your escape</router-link>
             </div>
-
         </div>
 
       </div>
