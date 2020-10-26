@@ -1,5 +1,6 @@
 <template>
   <div class="bg-taupe">
+    <Navbar></Navbar>
     <div class="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:max-w-full lg:w-full lg:py-0 lg:px-10 flex">
       <div class="l:max-w-full l:ml-auto">
         <img class="h-35 w-35 fill-current lg:hidden" src="/img/default.svg" alt="Full Serve" />
@@ -50,13 +51,32 @@
 
 <script>
 import DestinationCard from "../components/DestinationCard";
+import Navbar from '../components/Navbar';
 
 export default {
   name: "Home",
   components: {
     DestinationCard,
+    Navbar,
   },
   data: () => ({
+    links: [
+      {
+        id: 0,
+        text: 'Home',
+        page: '/Home'
+      },
+      {
+        id: 2,
+        text: 'Portfolio',
+        page: '/Portfolio'
+      },
+      {
+        id: 2,
+        text: 'Contact',
+        page: '/Contact'
+      }
+    ],
     popularDestinations: [
       {
         name: "Portland",

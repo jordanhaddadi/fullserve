@@ -5,6 +5,7 @@ module.exports = {
         'taupe': '#F2EDED', 
         'taupe-light': '#FCF7F7',
         'taupe-lighter': '#FFFCFC',
+        'main-purple': '#07174E',
       },
       spacing: {
         '72': '18rem',
