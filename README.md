@@ -5,3 +5,4 @@ This lesson is built as a simple [Vue CLI](https://cli.vuejs.org/) app to better
 To get started, `cd` into this subfolder and run `npm install` to install the dependencies.
 
 Use `npm run serve` to start the development server.
+# Full-Serve
