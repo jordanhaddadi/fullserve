@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 <template>
     <div class="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
       <img class="h-32 w-35 flex-shrink-0" :src="destination.imageUrl" :alt="destination.imageAlt">
